@@ -1,2 +1,2 @@
 # Sift
-simple music reccomender project
+simple music recommender project
